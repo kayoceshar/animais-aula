@@ -1,4 +1,4 @@
-import outsideClick from "./outsideClick";
+import outsideClick from "./outsideclick.js";
 
 
 export default function initDropdownMenu() {
